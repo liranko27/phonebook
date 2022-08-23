@@ -1,0 +1,13 @@
+[
+    {_id:1, _name:'Liran', _address: 'Yonatan ratush 12',_phones: ['0586567657', '039244816']},
+    {_id:2, _name:'Linor', _address: 'Yafa yarkoni 18', _phones:['0526546548', '084564623']},
+    {_id:3, _name:'Yoni', _address: 'Nisim aloni 35',_phones: ['0544564569', '0456454899']},
+    {_id:4, _name:'Daniel', _address: 'Nisim aloni 86',_phones: ['052546546', '0345648971']},
+    {_id:5, _name:'Savy',_address:  'Yahalom 26',_phones: ['0540565465', '035489716']},
+    {_id:6, _name:'Omri', _address: 'Ramat Hagolan 40',_phones: ['059456462', '0398574982']},
+    {_id:7, _name:'Moran', _address: 'Atlit 2 ',_phones: ['0526545462', '045649812']},
+    {_id:8, _name:'Maayan',_address:  'Atlit 2', _phones:['0536546654', '034564489']},
+    {_id:9, _name:'Or', _address: 'Even gvirol 89', _phones:['0545645654', '032544912']},
+    {_id:10,_name:'Yossi', _address: 'Manchester 68',_phones: ['0525465489', '023155495']},
+    {_id:11,_name:'Shlomi', _address: 'Yigal alon 90', _phones:['052546498', '036549812']}
+]
